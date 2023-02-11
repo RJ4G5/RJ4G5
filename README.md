@@ -1,16 +1,13 @@
-### Hi there 👋
+<h1 style='text-align:center'>😊 Bem-vindo(a) a minha caixinha de repositórios</h1>
+<div style="display:flex">
+<div style="width:50%">
 
-<!--
-**0D47A1/0D47A1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Para mim, uma interface tem que ser feita para leigos e linguagem é ferramenta, mas se for para escolher, que seja algo que tenha Flutter ou Nodejs
+</div>
 
-Here are some ideas to get you started:
+<div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=0D47A1&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+</div>
+
+</div>
