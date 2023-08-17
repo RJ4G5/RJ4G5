@@ -1,4 +1,4 @@
-<h1 style=" text-align: center ">😊 Oii! </h1>
+<h1 style=" text-align: center ">> Hello World! </h1>
 
 Sou um grande fã do NodeJS, do Material Design e agora do Dart. Para mim, a linguagem de programação é uma ferramenta e, se tiver que escolher, prefiro algo que possua o Flutter ou o NodeJS.
 
